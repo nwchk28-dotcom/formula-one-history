@@ -1,0 +1,11 @@
+import { readFile, writeFile } from "node:fs/promises";
+import sharp from "sharp";
+const imageSource="https://neumaticointermediof1.wordpress.com/wp-content/uploads/2019/10/dyfy_ojxcaiewke.jpg?crop=1&h=450&w=930";
+const response=await fetch(imageSource,{headers:{"User-Agent":"Mozilla/5.0"}});
+if(!response.ok)throw new Error(`Download failed: ${response.status}`);
+await sharp(Buffer.from(await response.arrayBuffer())).resize(1200,1200,{fit:"cover",position:sharp.strategy.attention}).webp({quality:85}).toFile("public/seasons-unique/1979-jody-scheckter.webp");
+const audit=JSON.parse(await readFile("THIRD_PARTY_IMAGE_AUDIT.json","utf8"));
+const item=audit.find(x=>x.year===1979);
+Object.assign(item,{source:"https://neumaticointermediof1.wordpress.com/2019/10/01/jody-scheckter-y-su-camino-hacia-el-titulo-mundial/",imageSource,title:"Jody Scheckter’s Podium Victory"});
+if(new Set(audit.map(x=>x.imageSource)).size!==audit.length)throw new Error("Duplicate source image remains");
+await writeFile("THIRD_PARTY_IMAGE_AUDIT.json",JSON.stringify(audit,null,2));
