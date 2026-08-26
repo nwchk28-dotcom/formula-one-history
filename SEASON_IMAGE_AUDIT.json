@@ -1,0 +1,458 @@
+[
+  {
+    "year": 2025,
+    "name": "Lando Norris",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2024,
+    "name": "Max Verstappen",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2023,
+    "name": "Max Verstappen",
+    "yearSpecific": true,
+    "source": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2023_Max_Verstappen.jpg"
+  },
+  {
+    "year": 2022,
+    "name": "Max Verstappen",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2021,
+    "name": "Max Verstappen",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2020,
+    "name": "Lewis Hamilton",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2019,
+    "name": "Lewis Hamilton",
+    "yearSpecific": true,
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Formula_One_tests_Barcelona,_Hamilton_(32309899337).jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Lewis Hamilton",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2017,
+    "name": "Lewis Hamilton",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2016,
+    "name": "Nico Rosberg",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2015,
+    "name": "Lewis Hamilton",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2014,
+    "name": "Lewis Hamilton",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2013,
+    "name": "Sebastian Vettel",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2012,
+    "name": "Sebastian Vettel",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2011,
+    "name": "Sebastian Vettel",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2010,
+    "name": "Sebastian Vettel",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2009,
+    "name": "Jenson Button",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2008,
+    "name": "Lewis Hamilton",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2007,
+    "name": "Kimi Räikkönen",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2006,
+    "name": "Fernando Alonso",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2005,
+    "name": "Fernando Alonso",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2004,
+    "name": "Michael Schumacher",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2003,
+    "name": "Michael Schumacher",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2002,
+    "name": "Michael Schumacher",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2001,
+    "name": "Michael Schumacher",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 2000,
+    "name": "Michael Schumacher",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1999,
+    "name": "Mika Häkkinen",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1998,
+    "name": "Mika Häkkinen",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1997,
+    "name": "Jacques Villeneuve",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1996,
+    "name": "Damon Hill",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1995,
+    "name": "Michael Schumacher",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1994,
+    "name": "Michael Schumacher",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1993,
+    "name": "Alain Prost",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1992,
+    "name": "Nigel Mansell",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1991,
+    "name": "Ayrton Senna",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1990,
+    "name": "Ayrton Senna",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1989,
+    "name": "Alain Prost",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1988,
+    "name": "Ayrton Senna",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1987,
+    "name": "Nelson Piquet",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1986,
+    "name": "Alain Prost",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1985,
+    "name": "Alain Prost",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1984,
+    "name": "Niki Lauda",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1983,
+    "name": "Nelson Piquet",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1982,
+    "name": "Keke Rosberg",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1981,
+    "name": "Nelson Piquet",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1980,
+    "name": "Alan Jones",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1979,
+    "name": "Jody Scheckter",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1978,
+    "name": "Mario Andretti",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1977,
+    "name": "Niki Lauda",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1976,
+    "name": "James Hunt",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1975,
+    "name": "Niki Lauda",
+    "yearSpecific": true,
+    "source": "https://commons.wikimedia.org/wiki/File:1975_Italian_GP_-_The_new_F1_Drivers%27_World_Champion_Niki_Lauda_on_the_podium.jpg"
+  },
+  {
+    "year": 1974,
+    "name": "Emerson Fittipaldi",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1973,
+    "name": "Jackie Stewart",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1972,
+    "name": "Emerson Fittipaldi",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1971,
+    "name": "Jackie Stewart",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1970,
+    "name": "Jochen Rindt",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1969,
+    "name": "Jackie Stewart",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1968,
+    "name": "Graham Hill",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1967,
+    "name": "Denny Hulme",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1966,
+    "name": "Jack Brabham",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1965,
+    "name": "Jim Clark",
+    "yearSpecific": true,
+    "source": "https://commons.wikimedia.org/wiki/File:Clark_celebrating_at_1965_Dutch_Grand_Prix.jpg"
+  },
+  {
+    "year": 1964,
+    "name": "John Surtees",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1963,
+    "name": "Jim Clark",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1962,
+    "name": "Graham Hill",
+    "yearSpecific": true,
+    "source": "https://commons.wikimedia.org/wiki/File:G._Hill_at_1962_Dutch_Grand_Prix.jpg"
+  },
+  {
+    "year": 1961,
+    "name": "Phil Hill",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1960,
+    "name": "Jack Brabham",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1959,
+    "name": "Jack Brabham",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1958,
+    "name": "Mike Hawthorn",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1957,
+    "name": "Juan Manuel Fangio",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1956,
+    "name": "Juan Manuel Fangio",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1955,
+    "name": "Juan Manuel Fangio",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1954,
+    "name": "Juan Manuel Fangio",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1953,
+    "name": "Alberto Ascari",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1952,
+    "name": "Alberto Ascari",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1951,
+    "name": "Juan Manuel Fangio",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  },
+  {
+    "year": 1950,
+    "name": "Nino Farina",
+    "yearSpecific": false,
+    "source": "https://www.formula1.com/en/drivers/hall-of-fame"
+  }
+]
