@@ -3,6 +3,8 @@
 import { useEffect, useState } from "react";
 import { seasonImages } from "./season-images.generated";
 
+const publicBasePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
 type Season = { year: number; name: string; team: string; color: string; image: string; pos: string };
 
 const raw: [number, string, string][] = [
@@ -18,12 +20,13 @@ const teamColors: Record<string,string> = { "McLaren":"#ff8700", "Red Bull Racin
 
 function portrait(name: string) {
   const slug = name.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
-  return { image: `/champions/${slug}.webp`, pos: "center center" };
+  return { image: `${publicBasePath}/champions/${slug}.webp`, pos: "center center" };
 }
 
 const seasons: Season[] = raw.map(([year,name,team]) => {
   const base = portrait(name);
-  return { year,name,team,color:teamColors[team] || "#ece7dc",...base,image:seasonImages[year] || base.image };
+  const seasonImage = seasonImages[year];
+  return { year,name,team,color:teamColors[team] || "#ece7dc",...base,image:seasonImage ? `${publicBasePath}${seasonImage}` : base.image };
 });
 
 export default function Home() {
